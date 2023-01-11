@@ -10,7 +10,7 @@ const userConfig: UserConfig = {
             //     target_folder: 'path/relative/to/content/folder'
             // }
             {
-                page_id: '45eb121158b9489480ec000fd25c812b',
+                page_id: 'f913c5302b134207b32131a21f4522fa',
                 target_folder: '.'
             }
         ],
